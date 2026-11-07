@@ -29,7 +29,7 @@ Cuaca Kampus adalah aplikasi mobile yang menampilkan kondisi cuaca saat ini dan 
 |:---:|:---:|
 | ![Pilih Kota](screenshots/pilih_kota.png) | ![Mode Gelap](screenshots/tema_gelap.png) |
 
-> 📝 **Catatan:** gambar di atas masih berupa *placeholder*. Jalankan aplikasi, ambil screenshot asli, lalu timpa file di folder `screenshots/` dengan nama yang sama.
+
 
 ## Teknologi yang Digunakan
 
