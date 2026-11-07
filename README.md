@@ -1,5 +1,12 @@
 # 🌤️ Cuaca Kampus
 
+## Nama Kelompok
+Dewi Astuti - 2409106007
+Intan Alfara Audia - 2409106008
+Niluh Fincy Gloria N.M. - 2409106012
+Angelina Augustin Umami - 2409106014
+Ayu Azzahrah Alwi - 2409106022
+
 ## Nama Aplikasi / Judul Project
 
 **Cuaca Kampus** — Aplikasi Prakiraan Cuaca Berbasis Lokasi (Flutter)
